@@ -1,7 +1,7 @@
-import React from 'react'
-import './Sidebar.css'
-import HomeIcon from '@material-ui/icons/Home'
-import TwitterIcon from '@material-ui/icons/Twitter'
+import React from 'react';
+import './Sidebar.css';
+import HomeIcon from '@material-ui/icons/Home';
+import TwitterIcon from '@material-ui/icons/Twitter';
 import SearchIcon from '@material-ui/icons/Search';
 import NotificationsNoneOutlinedIcon from '@material-ui/icons/NotificationsNoneOutlined';
 import MailOutlineIcon from '@material-ui/icons/MailOutline';
@@ -10,7 +10,7 @@ import ListAltIcon from '@material-ui/icons/ListAlt';
 import PermIdentityIcon from '@material-ui/icons/PermIdentity';
 import MoreHorizIcon from '@material-ui/icons/MoreHoriz';
 
-import SidebarOption from './SidebarOptions'
+import SidebarOption from './SidebarOptions';
 import { Button } from '@material-ui/core';
 
 function Sidebar() {

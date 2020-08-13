@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
-import './Feed.css'
-import TweetBox from './TweetBox'
+import './Feed.css';
+import TweetBox from './TweetBox';
 import Post from './Post';
 import db from './firebase';
 import FlipMove from 'react-flip-move';
